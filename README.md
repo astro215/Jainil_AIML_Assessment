@@ -53,7 +53,7 @@ The notebook concludes by comparing the performance of the three models and sele
 The repository contains the following files and folders:
 
 1. `Jainil_AIML_Assessment.ipynb` - Jupyter notebook containing the solution.
-2. `[Jainil_AIML_Assessment.html](https://astro215.github.io/Jainil_AIML_Assessment/Jainil_AIML_Assessment.html)` - Jupyter notebook containing the solution converted to html and deployed over GitHub Pages.
+2. `![Jainil_AIML_Assessment.html](https://astro215.github.io/Jainil_AIML_Assessment/Jainil_AIML_Assessment.html)` - Jupyter notebook containing the solution converted to html and deployed over GitHub Pages.
 3. `DS_ML Coding Challenge Dataset.xlsx` - Dataset provided for the challenge.
 4. `train_df_quantify.csv` - Preprocessed dataset used for training the models.
 5. `README.md` - This file.
