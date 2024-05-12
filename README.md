@@ -99,14 +99,13 @@ This project is licensed under the MIT License.
 
 Thanks to the A.P. Moller Maersk for providing the DS_ML Coding Challenge and the opportunity to work on this interesting problem.
 
-## Authors
+## Author
 
 - [@astro215](https://github.com/astro215)
 
+## Links
+- Linkedin - https://www.linkedin.com/in/jainil-patel-2857ab202/
 
-## 🔗 Links
-
-[![linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLinkedInIndia%2F&psig=AOvVaw3QFZ8ngK5sfb1q_InBqXU9&ust=1715576598332000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjag_2qh4YDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/jainil-patel-2857ab202/)
 
 
 
