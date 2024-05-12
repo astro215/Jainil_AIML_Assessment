@@ -16,7 +16,7 @@ The problem statement is as follows:
 
 ## Solution Notebook
 
-The solution notebook is named `DS_ML_Coding_Challenge.ipynb`. It contains the following steps:
+The solution notebook is named `Jainil_AIML_Assessment.ipynb`. It contains the following steps:
 
 1. Preprocessing and Feature Engineering
 2. Exploratory Data Analysis (EDA)
@@ -52,7 +52,7 @@ The notebook concludes by comparing the performance of the three models and sele
 
 The repository contains the following files and folders:
 
-1. `DS_ML_Coding_Challenge.ipynb` - Jupyter notebook containing the solution.
+1. `Jainil_AIML_Assessment.ipynb` - Jupyter notebook containing the solution.
 2. `DS_ML Coding Challenge Dataset.xlsx` - Dataset provided for the challenge.
 3. `train_df_quantify.csv` - Preprocessed dataset used for training the models.
 4. `README.md` - This file.
@@ -78,7 +78,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost keras tensorflo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/DS_ML_Coding_Challenge.git
+git clone https://github.com/astro215/Jainil_AIML_Assessment.git
 ```
 2. Install the required libraries:
 ```
@@ -86,7 +86,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost keras tensorflo
 ```
 3. Open the Jupyter notebook:
 ```bash
-jupyter notebook DS_ML_Coding_Challenge.ipynb
+jupyter notebook Jainil_AIML_Assessment.ipynb
 ```
 4. Run the notebook and follow the instructions.
 
