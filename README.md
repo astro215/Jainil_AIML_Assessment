@@ -106,7 +106,7 @@ Thanks to the A.P. Moller Maersk for providing the DS_ML Coding Challenge and th
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainil-patel-2857ab202/)
+[![linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLinkedInIndia%2F&psig=AOvVaw3QFZ8ngK5sfb1q_InBqXU9&ust=1715576598332000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjag_2qh4YDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/jainil-patel-2857ab202/)
 
 
 
