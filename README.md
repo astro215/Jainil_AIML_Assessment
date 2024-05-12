@@ -91,10 +91,6 @@ jupyter notebook Jainil_AIML_Assessment.ipynb
 ```
 4. Run the notebook and follow the instructions.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License.
