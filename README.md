@@ -98,3 +98,9 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 Thanks to the company for providing the DS_ML Coding Challenge and the opportunity to work on this interesting problem.
+
+
+
+{% include_relative plot/sourcing_cost_quantity_plot.html %} 
+
+
