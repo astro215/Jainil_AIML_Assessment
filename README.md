@@ -1,6 +1,6 @@
 # A.P. Moller Maersk Case Study - DS_ML Coding Challenge
 
-This repository contains a Jupyter notebook that aims to solve the DS_ML Coding Challenge provided by a company. The challenge involves using machine learning models to predict the sourcing cost and quantity for June 2021 based on a given dataset.
+This repository contains a Jupyter notebook that aims to solve the DS_ML Coding Challenge provided by A.P. Moller Maersk. The challenge involves using machine learning models to predict the sourcing cost and quantity for June 2021 based on a given dataset.
 
 Jupyter Notebook Rendered HTML with interactive plots - https://astro215.github.io/Jainil_AIML_Assessment/Jainil_AIML_Assessment.html <br>
 Juptyer Notebook Code - https://github.com/astro215/Jainil_AIML_Assessment/blob/main/Jainil_AIML_Assessment.ipynb
@@ -100,7 +100,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-Thanks to the company for providing the DS_ML Coding Challenge and the opportunity to work on this interesting problem.
+Thanks to the A.P. Moller Maersk for providing the DS_ML Coding Challenge and the opportunity to work on this interesting problem.
 
 
 
