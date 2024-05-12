@@ -2,8 +2,8 @@
 
 This repository contains a Jupyter notebook that aims to solve the DS_ML Coding Challenge provided by a company. The challenge involves using machine learning models to predict the sourcing cost and quantity for June 2021 based on a given dataset.
 
-Jupyter Notebook Rendered HTML with interactive plots - https://astro215.github.io/test-n/test.html
-Juptyer Notebook Code - 
+Jupyter Notebook Rendered HTML with interactive plots - https://astro215.github.io/Jainil_AIML_Assessment/Jainil_AIML_Assessment.html <br>
+Juptyer Notebook Code - https://github.com/astro215/Jainil_AIML_Assessment/blob/main/Jainil_AIML_Assessment.ipynb
 
 ## Problem Statement
 
