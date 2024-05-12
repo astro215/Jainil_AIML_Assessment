@@ -101,6 +101,5 @@ Thanks to the company for providing the DS_ML Coding Challenge and the opportuni
 
 
 
-{% include_relative ./plot/sourcing_cost_quantity_plot.html %} 
 
 
